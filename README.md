@@ -45,6 +45,7 @@ You can define the trigger in your YAML file under the `on` keyword. For example
 
 ```yaml
 on: push
+```
 
 3 Defining Jobs and Steps
 
@@ -52,7 +53,7 @@ Workflows consist of jobs, and jobs consist of steps. A job runs on a specific r
 
 Example structure:
 
-yaml
+```yaml
 
 jobs:
   build:
@@ -71,12 +72,12 @@ jobs:
 
       - name: Run tests
         run: npm test
-
+```
  Sample Workflow
 
 Heres a full example of a basic CI workflow for a Node.js project:
 
-yaml
+```yaml
 
 name: CI
 
@@ -100,6 +101,7 @@ jobs:
 
       - name: Run tests
         run: npm test
+```
 
 This workflow runs when code is pushed to the repository or when a pull request is created. It checks out the code, sets up Node.js, installs dependencies, and runs tests.
  More Resources
