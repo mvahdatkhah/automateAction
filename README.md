@@ -104,10 +104,11 @@ jobs:
 ```
 
 This workflow runs when code is pushed to the repository or when a pull request is created. It checks out the code, sets up Node.js, installs dependencies, and runs tests.
+
 📖 More Resources
 
-    GitHub Actions Documentation
-    YAML Syntax Guide
-    GitHub Actions Marketplace
+   * GitHub Actions Documentation
+   * YAML Syntax Guide
+   * GitHub Actions Marketplace
 
-Feel free to customize your workflow based on your project's requirements!
+Feel free to customize your workflow based on your project's requirements! 🎉
