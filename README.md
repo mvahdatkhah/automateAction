@@ -3,14 +3,14 @@
 This repository uses GitHub Actions for continuous integration and automation. Follow the steps below to initialize and configure GitHub Actions for your project.
 
 ## 📚 Table of Contents
-- [What is GitHub Actions?](#what-is-github-actions)
-- [Prerequisites](#prerequisites)
-- [Setting Up a Workflow](#setting-up-a-workflow)
-  - [1. Creating a Workflow File](#1-creating-a-workflow-file)
-  - [2. Choosing an Event Trigger](#2-choosing-an-event-trigger)
-  - [3. Defining Jobs and Steps](#3-defining-jobs-and-steps)
-- [Sample Workflow](#sample-workflow)
-- [More Resources](#more-resources)
+- [What is GitHub Actions?](#-what-is-github-actions)
+- [Prerequisites](#-prerequisites)
+- [Setting Up a Workflow](#-setting-up-a-workflow)
+  - [1. Creating a Workflow File](#-1-creating-a-workflow-file)
+  - [2. Choosing an Event Trigger](#-2-choosing-an-event-trigger)
+  - [3. Defining Jobs and Steps](#-3-defining-jobs-and-steps)
+- [Sample Workflow](#-sample-workflow)
+- [More Resources](#-more-resources)
 
 ## 🤔 What is GitHub Actions?
 
